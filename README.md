@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # money_tracer
 =======
 # React + Vite
